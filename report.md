@@ -63,7 +63,7 @@ I trained three different neural network models, each with variations to try and
 
 ---
 
-# 🧾 Summary and Recommendations
+# 🧾 Summary
 
 ## ✅ Summary:
 - Successfully built and trained three neural network models on the dataset.
